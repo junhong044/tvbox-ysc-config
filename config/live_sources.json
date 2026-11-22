@@ -1,0 +1,21 @@
+{
+  "description": "电视直播上游源清单。每个源独立抓取，失败不影响其他源；格式为 txt(#genre#) 或 m3u(#EXTINF)，脚本自动识别。可按 name/url 增改。",
+  "sources": [
+    {
+      "name": "Lightconer直播",
+      "url": "https://cdn.jsdelivr.net/gh/Lightconer/TVBox-Sources@main/output/live.txt"
+    },
+    {
+      "name": "APTV直播",
+      "url": "https://cdn.jsdelivr.net/gh/Kimentanm/aptv@master/m3u/iptv.m3u"
+    },
+    {
+      "name": "APTV直播-直连备用",
+      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
+    },
+    {
+      "name": "Lightconer直播-直连备用",
+      "url": "https://raw.githubusercontent.com/Lightconer/TVBox-Sources/main/output/live.txt"
+    }
+  ]
+}
