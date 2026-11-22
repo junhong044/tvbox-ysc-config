@@ -9,13 +9,13 @@
 ## 一、源可用性状态
 
 <!-- STATUS_START -->
-> 🔄 最近更新：2026-11-23 01:18:45（北京时间） · 成功 **8/10** 个源
+> 🔄 最近更新：2026-11-23 02:38:28（北京时间） · 成功 **8/10** 个源
 
 | 配置源 | 状态 | 使用地址 |
 | --- | --- | --- |
 | 肥猫 | ✅ 成功 | `https://6296.kstore.vip/facat.json` |
-| 饭太硬 | ❌ 失败 | 502 Server Error: Bad Gateway for url: http://www.xn--sss... |
-| 王二小 | ✅ 成功 | `https://9280.kstore.vip/newwex.json` |
+| 饭太硬 | ❌ 失败 | HTTPConnectionPool(host='www.xn--sss604efuw.xyz', port=80... |
+| 王二小 | ✅ 成功 | `https://d.kstore.dev/download/9280/wex.json` |
 | 老刘备 | ✅ 成功 | `https://raw.liucn.cc/box/m.json` |
 | 小马 | ✅ 成功 | `https://szyyds.cn/tv/x.json` |
 | 讴歌 | ❌ 失败 | HTTPSConnectionPool(host='xn--dkw0c.v.nxog.top', port=443... |
