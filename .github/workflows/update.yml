@@ -46,6 +46,9 @@ jobs:
       - name: Run live source update
         run: python scripts/update_live.py
 
+      - name: Run documentary source update
+        run: python scripts/update_doc.py
+
       - name: Commit and push changes
         run: |
           git config --local user.name "github-actions[bot]"
