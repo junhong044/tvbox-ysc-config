@@ -4,7 +4,7 @@
 
 > 所有配置均来自互联网公开分享，版权归原作者所有；本仓库仅做聚合与镜像，仅供学习交流，请勿商用。
 
-![TVBox 配置状态](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YOUR_USERNAME/tvbox-ysc-config/main/output/shield.json)
+![TVBox 配置状态](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/junhong044/tvbox-ysc-config/main/output/shield.json)
 
 ## 一、源可用性状态
 
@@ -25,17 +25,17 @@
 | 挺好分享多仓 | ✅ 成功 | `http://ztha.top/TVBox/GYCK.json` |
 <!-- STATUS_END -->
 
-## 二、订阅地址（部署后替换 YOUR_USERNAME 为你的 GitHub 用户名）
+## 二、订阅地址（部署后替换 junhong044 为你的 GitHub 用户名）
 
 | 类型 | 地址 | 说明 |
 | --- | --- | --- |
-| 多仓订阅（推荐） | `https://gh-proxy.org/https://raw.githubusercontent.com/YOUR_USERNAME/tvbox-ysc-config/main/output/多仓订阅.json` | App 内可在各源之间切换 |
-| 单仓聚合 | `https://gh-proxy.org/https://raw.githubusercontent.com/YOUR_USERNAME/tvbox-ysc-config/main/output/单仓聚合.json` | 所有源站点合并成一个，开箱即用 |
-| 状态文件 | `https://raw.githubusercontent.com/YOUR_USERNAME/tvbox-ysc-config/main/output/status.json` | 各源更新时间与结果（机器可读） |
+| 多仓订阅（推荐） | `https://gh-proxy.org/https://raw.githubusercontent.com/junhong044/tvbox-ysc-config/main/output/多仓订阅.json` | App 内可在各源之间切换 |
+| 单仓聚合 | `https://gh-proxy.org/https://raw.githubusercontent.com/junhong044/tvbox-ysc-config/main/output/单仓聚合.json` | 所有源站点合并成一个，开箱即用 |
+| 状态文件 | `https://raw.githubusercontent.com/junhong044/tvbox-ysc-config/main/output/status.json` | 各源更新时间与结果（机器可读） |
 
 国内若 `gh-proxy.org` 失效，可改用以下任一加速前缀，或直接裸连 raw：
 - `https://gh-proxy.com/https://raw.githubusercontent.com/...`
-- `https://fastly.jsdelivr.net/gh/YOUR_USERNAME/tvbox-ysc-config@main/output/多仓订阅.json`
+- `https://fastly.jsdelivr.net/gh/junhong044/tvbox-ysc-config@main/output/多仓订阅.json`
 
 ## 三、使用方法
 
