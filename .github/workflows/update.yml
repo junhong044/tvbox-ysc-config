@@ -43,6 +43,9 @@ jobs:
       - name: Run update script
         run: python scripts/update.py
 
+      - name: Run live source update
+        run: python scripts/update_live.py
+
       - name: Commit and push changes
         run: |
           git config --local user.name "github-actions[bot]"
@@ -52,7 +55,6 @@ jobs:
             echo "::notice::没有内容变化，跳过提交"
           else
             git commit -m "chore: 自动更新影视仓配置 $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
-            git pull --rebase origin main || true
             git push origin main
             echo "::notice::配置已更新并推送到 main 分支"
           fi
