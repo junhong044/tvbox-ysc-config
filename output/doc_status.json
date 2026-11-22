@@ -1,0 +1,29 @@
+{
+  "updated_at": "2026-11-23 02:58:00",
+  "doc_sites": 3,
+  "doc_site_list": [
+    {
+      "name": "红牛纪录片",
+      "category": "纪录片",
+      "total": 2480
+    },
+    {
+      "name": "天涯纪录片",
+      "category": "纪录片",
+      "total": 2376
+    },
+    {
+      "name": "闪电纪录片",
+      "category": "纪录片",
+      "total": 1791
+    }
+  ],
+  "doc_live_channels": 5,
+  "doc_live_list": [
+    "CCTV-9纪录",
+    "CCTV9",
+    "CGTN纪录",
+    "CGTN记录",
+    "之江纪录"
+  ]
+}
