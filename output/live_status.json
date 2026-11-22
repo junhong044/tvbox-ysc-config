@@ -1,0 +1,41 @@
+{
+  "updated_at": "2026-11-23 02:34:52",
+  "ok_sources": 4,
+  "total_sources": 4,
+  "channels": 165,
+  "lines": 363,
+  "sources": [
+    {
+      "name": "Lightconer直播",
+      "url": "https://cdn.jsdelivr.net/gh/Lightconer/TVBox-Sources@main/output/live.txt",
+      "ok": true,
+      "channels": 91,
+      "error": null,
+      "format": "txt"
+    },
+    {
+      "name": "APTV直播",
+      "url": "https://cdn.jsdelivr.net/gh/Kimentanm/aptv@master/m3u/iptv.m3u",
+      "ok": true,
+      "channels": 120,
+      "error": null,
+      "format": "m3u"
+    },
+    {
+      "name": "APTV直播-直连备用",
+      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "ok": true,
+      "channels": 120,
+      "error": null,
+      "format": "m3u"
+    },
+    {
+      "name": "Lightconer直播-直连备用",
+      "url": "https://raw.githubusercontent.com/Lightconer/TVBox-Sources/main/output/live.txt",
+      "ok": true,
+      "channels": 91,
+      "error": null,
+      "format": "txt"
+    }
+  ]
+}
