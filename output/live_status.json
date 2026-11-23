@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-23 10:49:31",
+  "updated_at": "2026-11-23 22:54:45",
   "ok_sources": 4,
   "total_sources": 4,
-  "channels": 167,
-  "lines": 405,
+  "channels": 166,
+  "lines": 371,
   "sources": [
     {
       "name": "Lightconer直播",
       "url": "https://cdn.jsdelivr.net/gh/Lightconer/TVBox-Sources@main/output/live.txt",
       "ok": true,
-      "channels": 91,
+      "channels": 93,
       "error": null,
       "format": "txt"
     },
@@ -33,7 +33,7 @@
       "name": "Lightconer直播-直连备用",
       "url": "https://raw.githubusercontent.com/Lightconer/TVBox-Sources/main/output/live.txt",
       "ok": true,
-      "channels": 95,
+      "channels": 93,
       "error": null,
       "format": "txt"
     }
