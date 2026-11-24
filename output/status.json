@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 22:54:41",
+  "updated_at": "2026-11-24 10:49:22",
   "repo": "junhong044/tvbox-ysc-config",
   "sources": [
     {
@@ -62,8 +62,9 @@
       "id": "shiguang",
       "name": "拾光多仓",
       "ok": true,
-      "used_url": "http://xmbjm.fh4u.org/dc.txt",
-      "error": null
+      "used_url": "(缓存)",
+      "error": "HTTPConnectionPool(host='xmbjm.fh4u.org', port=80): Max retries exceeded with url: /dc.txt (Caused by ConnectTimeoutError(<HTTPConnection(host='xmbjm.fh4u.org', port=80) at 0x735917772c90>, 'Connection to xmbjm.fh4u.org timed out. (connect timeout=15)'))",
+      "cached": true
     },
     {
       "id": "tinghao",
