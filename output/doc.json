@@ -7,7 +7,7 @@
   "sites": [
     {
       "key": "红牛纪录片",
-      "name": "红牛纪录片·纪录片2483",
+      "name": "红牛纪录片·纪录片2484",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
@@ -29,7 +29,7 @@
     },
     {
       "key": "闪电纪录片",
-      "name": "闪电纪录片·纪录片1791",
+      "name": "闪电纪录片·纪录片1792",
       "type": 1,
       "api": "http://sdzyapi.com/api.php/provide/vod/",
       "searchable": 1,
