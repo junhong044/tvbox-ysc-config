@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-11-26 22:51:59,https://github.com
+2026-11-27 10:49:39,https://github.com
 📺纪录片频道,#genre#
 CCTV-9纪录,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=45550854a7d29c77f9d30c893c47083b
+CCTV-9纪录,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=696bde68eddee7ef06afa108a0702104
 CCTV9,http://119.39.9.8:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV9,http://221.226.51.220:50081/newlive/live/hls/10/live.m3u8
 CCTV9,http://124.228.160.3:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
