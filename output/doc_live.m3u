@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CCTV-9纪录" group-title="纪录片",CCTV-9纪录
-https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=696bde68eddee7ef06afa108a0702104
-#EXTINF:-1 tvg-name="CCTV9" group-title="纪录片",CCTV9
-http://221.226.51.220:50081/newlive/live/hls/9/live.m3u8
-#EXTINF:-1 tvg-name="CCTV9" group-title="纪录片",CCTV9
+#EXTINF:-1 tvg-name="CCTV-9" group-title="纪录片",CCTV-9
+http://58.54.146.106:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-9" group-title="纪录片",CCTV-9
 http://60.187.246.195:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV9" group-title="纪录片",CCTV9
+#EXTINF:-1 tvg-name="CCTV-9" group-title="纪录片",CCTV-9
+http://183.129.255.66:8480/hls/10/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-9" group-title="纪录片",CCTV-9
+http://221.226.51.220:50081/newlive/live/hls/9/live.m3u8
+#EXTINF:-1 tvg-name="CCTV-9" group-title="纪录片",CCTV-9
+http://118.193.115.2:9901/tsfile/live/0009_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV-9" group-title="纪录片",CCTV-9
 http://120.40.39.246:352/newlive/live/hls/10/live.m3u8
 #EXTINF:-1 tvg-name="CCTV9" group-title="纪录片",CCTV9
-http://118.193.115.2:9901/tsfile/live/0009_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV9" group-title="纪录片",CCTV9
-http://123.160.235.204:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV9" group-title="纪录片",CCTV9
-http://183.129.255.66:8480/hls/10/index.m3u8
+http://101.35.240.114:88/live.php?id=CCTV9
 #EXTINF:-1 tvg-name="CGTN纪录" group-title="纪录片",CGTN纪录
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" group-title="纪录片",CGTN纪录
@@ -20,8 +20,8 @@ https://0472.org/hls/cgtnd.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" group-title="纪录片",CGTN纪录
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 tvg-name="之江纪录" group-title="纪录片",之江纪录
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-name="之江纪录" group-title="纪录片",之江纪录
 http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-name="之江纪录" group-title="纪录片",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-name="之江纪录" group-title="纪录片",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
