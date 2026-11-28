@@ -1,16 +1,16 @@
 🕘️更新时间,#genre#
-2026-11-28 10:45:12,https://github.com
+2026-11-28 22:40:06,https://github.com
 📺纪录片频道,#genre#
-CCTV-9,http://58.54.146.106:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9,http://60.187.246.195:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9,http://183.129.255.66:8480/hls/10/index.m3u8
 CCTV-9,http://221.226.51.220:50081/newlive/live/hls/9/live.m3u8
-CCTV-9,http://118.193.115.2:9901/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV-9,http://60.187.246.195:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://58.54.146.106:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://219.147.245.238:25480/newlive/live/hls/10/live.m3u8
 CCTV-9,http://120.40.39.246:352/newlive/live/hls/10/live.m3u8
+CCTV-9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
 CCTV9,http://101.35.240.114:88/live.php?id=CCTV9
 CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
